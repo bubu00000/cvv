@@ -1,0 +1,153 @@
+body{
+  margin :0;
+  text-align: center;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif
+}
+
+div{
+
+}
+.p-main{
+  color:green;
+  font-size: 30px;
+  font-weight: lighter;
+
+}
+
+.p-main-top{
+  text-align: left;
+  color:green;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.top-part {
+  background-color: #AEDBCE;
+  padding-top: 100px;
+
+
+
+}
+a{
+
+}
+a:hover, a:active,a:link,a:visited{
+  color:green;
+   margin : 10px 20px;
+}
+
+h1{
+  margin-top: 0;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: green;
+  font-weight: lighter;
+
+}
+
+h2{
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.second-p{
+  text-align: justify;
+  margin: 10px 40px 30px 40px;
+
+
+
+
+}
+
+
+.third-p{
+
+  text-align: justify;
+  margin: 10px 70px 30px 70px;
+
+}
+.fourth-p{
+  text-align: justify;
+  margin: 10px 100px 30px 4px;
+}
+
+.fivth-p{
+  font-size: 20px;
+}
+.image-1{
+  position:relative;
+
+  max-width: 20%;
+  max-height: 20%;
+
+
+}
+
+.image-2{
+  max-width: 20%;
+  max-height: 60%;
+  padding-bottom: 50px;
+  float:left;
+  margin-right: 60px;
+}
+.image-3{
+  max-width: 20%;
+  max-height: 50%;
+}
+.image-4{
+  max-width: 20%;
+  max-height: 50%;
+  float: left;
+  margin-right: 60px;
+  padding-bottom: 140px;
+  padding-top: 100px;
+}
+
+.image-5{
+  max-width: 20%;
+  max-height: 50%;
+  float: right;
+  margin-left: 60px;
+  padding-bottom: 140px;
+}
+.image-6{
+  max-width: 20%;
+  max-height: 50%;
+  float: left;
+  margin-right: 60px;
+  padding-bottom: 0px;
+}
+
+.second-part {
+  width: 50%;
+  margin:100px auto 100px auto;
+
+
+}
+
+.third-part{
+  width: 50%;
+  margin:100px auto 100px auto;
+  padding-top: 100px;
+
+}
+.fourth-part{
+  width: 50%;
+  margin:100px auto 100px auto;
+  padding-top: 100px;
+
+
+}
+
+.fifth-part{
+
+  width: 50%;
+  margin:100px auto 100px auto;
+  padding-top: 100px;
+}
+
+.buttom-container{
+  background-color: #AEDBCE;
+  padding:100px 0px 20px;
+
+}
